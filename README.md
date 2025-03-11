@@ -6,7 +6,6 @@
 - **Ultimate Download Hub 2.O**
 - **TR CRACKING TOOL**
 - **WIFI HACK LINUX**
-### 📫 Reach me at:  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tahsan.rahman.fahim)
 ### 💡 Turning ideas into secure and intelligent solutions!
 
 

@@ -1,5 +1,5 @@
 # 💫 Welcome to my Galaxy 
-### • | Ethical Hacker | AI & Cybersecurity Enthusiast | Python Dev
+### • Ethical Hacker | AI & Cybersecurity Enthusiast | Python Dev
 ### • Passionate about Python, AI, Machine Learning, and Cybersecurity
 ### • Exploring Ethical Hacking & Cyber Defense
 ### • Turning ideas into secure and intelligent solutions!

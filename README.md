@@ -6,8 +6,8 @@
 
 ### ⭐ Top Project:
 - **Ultimate Download Hub 2.O**
-- **TR CRACKING TOOL**
-- **WIFI HACK LINUX**
+- **TR Cracking Tools**
+- **Wifi Hack Linux**
 - **Advanced Bruteforce Password Generator**
 
 ## 🌐 Socials:

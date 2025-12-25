@@ -1,6 +1,5 @@
 # 💫 Welcome to my Galaxy 
-### • Competitive Programmer | Cybersecurity Enthusiast |
-### • Competitive Programming focused 
+### • | Competitive Programmer | Cybersecurity Enthusiast | 
 ### • Exploring Ethical Hacking & Cyber Defense
 ### • Building efficient and secure problem-solving skills
 

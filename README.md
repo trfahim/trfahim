@@ -3,7 +3,7 @@
 ### • Exploring Ethical Hacking & Cyber Defense
 ### • Building efficient and secure problem-solving skills
 
-### ⭐ Top Project:
+### ⭐ Top Projects:
 - **TR Cracking Tools**
 - **Wifi Hack Linux**
 - **WorldNumBlaster**

@@ -1,8 +1,8 @@
 # 💫 Welcome to my Galaxy 
-### • Python Dev | AI & Cybersecurity Enthusiast
-### • Passionate about Python, AI, Machine Learning, and Cybersecurity
+### • Competitive Programmer | Cybersecurity Enthusiast |
+### • Competitive Programming focused 
 ### • Exploring Ethical Hacking & Cyber Defense
-### • Turning ideas into secure and intelligent solutions!
+### • Building efficient and secure problem-solving skills
 
 ### ⭐ Top Project:
 - **Ultimate Download Hub 2.O**

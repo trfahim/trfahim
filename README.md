@@ -8,7 +8,7 @@
 - **TR Cracking Tools**
 - **Wifi Hack Linux**
 - **WorldNumBlaster**
-- - **Ultimate Download Hub 2.O**
+- **Ultimate Download Hub 2.O**
 - **Advanced Bruteforce Password Generator**
 
 ## 🌐 Socials:
